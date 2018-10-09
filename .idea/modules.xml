@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mis.iml" filepath="$PROJECT_DIR$/.idea/mis.iml" />
+      <module fileurl="file://D:/ydjango/.idea/ydjango.iml" filepath="D:/ydjango/.idea/ydjango.iml" />
+    </modules>
+  </component>
+</project>
